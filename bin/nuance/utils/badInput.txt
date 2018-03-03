@@ -1,5 +1,5 @@
 ON Waterloo School1 K1000 
-ON Waterloo School1 12000
+Waterloo School1 12000
 ON Waterloo School2 83000
 ON Kitchener School3 K0043
 ON Kitchener School3 10057

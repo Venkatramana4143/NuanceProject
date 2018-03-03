@@ -63,7 +63,7 @@ public class TextReportGenerator {
 				continue;
 			} else {
 				LOGGER.info("Column:" + count+ " matched given regular expression");
-				population = Integer.parseInt(columns[3].substring(1));
+				population = Integer.parseInt(columns[columns.length-1].substring(1));
 			}
 			// looping through the file columns for creating and updating the
 			// hashmap
