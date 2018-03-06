@@ -21,8 +21,7 @@ import nuance.constants.TextReportGeneratorConstants;
  */
 public class TextReportGenerator {
 
-	private static final Logger LOGGER = LogManager
-			.getLogger(TextReportGenerator.class.getClass());
+	private static final Logger LOGGER = LogManager.getLogger();
 
 	/**
 	 * @param args
@@ -62,8 +61,10 @@ public class TextReportGenerator {
 						+ " data is invalid. Skipping to next line");
 				continue;
 			} else {
-				LOGGER.info("Column:" + count+ " matched given regular expression");
-				population = Integer.parseInt(columns[columns.length-1].substring(1));
+				LOGGER.info("Column:" + count
+						+ " matched given regular expression");
+				population = Integer.parseInt(columns[columns.length - 1]
+						.substring(1));
 			}
 			// looping through the file columns for creating and updating the
 			// hashmap

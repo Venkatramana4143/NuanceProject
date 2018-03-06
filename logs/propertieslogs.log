@@ -1,0 +1,21 @@
+[INFO ] 2018-03-05 20:24:58.967 [main] TextReportGenerator - Reading Input File
+[INFO ] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Creating Hashmap
+[INFO ] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Column:2 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Column:3 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Column:4 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Column:5 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.981 [main] TextReportGenerator - Column:6 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Column:7 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Column:8 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Column:9 matched given regular expression
+[DEBUG] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Looping through input file columns
+[INFO ] 2018-03-05 20:24:58.996 [main] TextReportGenerator - Sorting Unsorted Map Based On Values
+[INFO ] 2018-03-05 20:24:59.167 [main] TextReportGenerator - Returning Sorted Map
+[INFO ] 2018-03-05 20:24:59.167 [main] TextReportGenerator - Generating Text Report For Given Input File

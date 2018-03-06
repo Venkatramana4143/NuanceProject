@@ -17,8 +17,8 @@ public class TextReportGeneratorConstants {
 	// regular expression to match grade and population value in the file
 	public static final String REGEX = "^[K(1-8)][0-9]+$";
 
-	public static final String FILEPATH = "C:/Users/VENKATRAMANA/workspace/NuanceAssignment/src/nuance/utils/nuance.txt";
-	public static final String FILEPATH2 = "C:/Users/VENKATRAMANA/workspace/NuanceAssignment/src/nuance/utils/badInput.txt";
+	public static final String FILEPATH = "src/nuance/utils/nuance.txt";
+	public static final String FILEPATH2 = "src/nuance/utils/badInput.txt";
 
 	public static Map<String, Integer> testDataReport() {
 		Map<String, Integer> map = new HashMap<String, Integer>();
